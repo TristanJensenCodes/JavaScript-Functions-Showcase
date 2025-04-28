@@ -1,0 +1,20 @@
+.nav {
+    background: #FEFEFE;
+    padding: 20px 0;
+}
+
+.nav-image {
+    width: 75px;
+    border-radius: unset;
+}
+
+.flex-box-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.flex-box-left, .flex-box-right {
+    width: 50%;
+}
